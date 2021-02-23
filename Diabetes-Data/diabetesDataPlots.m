@@ -2,7 +2,7 @@ clear;clc;close all;
 
 A = (1:70);
 delimterinIN = ' ';
-%The function below uploads all the files from the UCI data sheet into
+%{The function below uploads all the files from the UCI data sheet into
 %individual structures, rather than combining all of the data files into
 %one. In addition I also coverted the structures into tables to make it
 %easier to manage. 
